@@ -22,3 +22,7 @@ nav{
   .contact_paragraph{
     font-weight: 500;
   }
+  .form{
+    max-width: 1280px;
+    margin: 0 auto;
+  }
